@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Python, R, Microsoft Power BI and Git/GitHub**
 
-# - 👯 I’m looking to collaborate on **data projects**
+<!--- - 👯 I’m looking to collaborate on **data projects** --->
 
-# - 👨‍💻 All of my projects are available at [aziraphail.github.io](aziraphail.github.io)
+
+<!--- - 👨‍💻 All of my projects are available at [aziraphail.github.io](aziraphail.github.io) --->
+
 
 - 💬 Ask me about **Power BI, Microstrategy, SQL**
 
