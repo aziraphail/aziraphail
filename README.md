@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **streamlining the BI architecture of my organization**
 
-- 🌱 I’m currently learning **Python, Git/GitHub and R**
+- 🌱 I’m currently learning **Python, R, Microsoft Power BI and Git/GitHub**
 
-- 👯 I’m looking to collaborate on **any and all data projects**
+# - 👯 I’m looking to collaborate on **data projects**
 
-- 👨‍💻 All of my projects are available at [aziraphail.github.io](aziraphail.github.io)
+# - 👨‍💻 All of my projects are available at [aziraphail.github.io](aziraphail.github.io)
 
-- 💬 Ask me about **Git/Github, Power BI, Microstrategy, SQL**
+- 💬 Ask me about **Power BI, Microstrategy, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
